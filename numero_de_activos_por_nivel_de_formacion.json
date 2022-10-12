@@ -1,0 +1,73 @@
+﻿{
+    "Url": "www.epdata.es/numero-activos-nivel-formacion/6cacb5d3-2a52-41ee-bd35-63149c034b3e",
+    "Respuesta": {
+        "Id": "6cacb5d3-2a52-41ee-bd35-63149c034b3e",
+        "Url": "www.epdata.es/numero-activos-nivel-formacion/6cacb5d3-2a52-41ee-bd35-63149c034b3e",
+        "Titulo": "Número de activos por nivel de formación",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Encuesta de actividad a nivel trimestral - Número de personas para total como sexo, total como grupo de edad, analfabeto, estudios primarios incompletos, educación primaria, primera etapa secundaria similar, segunda secundaria, con orientación general, secundaria profesional, superior como nivel de formación alcanzado y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Número de personas",
+                    "Escala": "Miles",
+                    "EscalaFactorPotencia10": 3,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Analfabeto",
+                            "Valor": 87.4000015258789,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Educación primaria",
+                            "Valor": 924.400024414062,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Educación superior",
+                            "Valor": 10141.7001953125,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Estudios primarios incompletos",
+                            "Valor": 220.199996948242,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Segunda etapa de educación secundaria con orientación profesional",
+                            "Valor": 2459.60009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Segunda etapa de educación secundaria, con orientación general",
+                            "Valor": 3247.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
