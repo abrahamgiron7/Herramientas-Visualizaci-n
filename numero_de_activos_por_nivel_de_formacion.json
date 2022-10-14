@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Agno": 2022,
+        "Periodo": "Trimestre 2",
+        "Parametro": "Analfabeto",
+        "Valor": 87.4000015258789,
+        "Estado": "Definitivo",
+        "Notas": null
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Trimestre 2",
+        "Parametro": "Educación primaria",
+        "Valor": 924.400024414062,
+        "Estado": "Definitivo",
+        "Notas": null
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Trimestre 2",
+        "Parametro": "Educación superior",
+        "Valor": 10141.7001953125,
+        "Estado": "Definitivo",
+        "Notas": null
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Trimestre 2",
+        "Parametro": "Estudios primarios incompletos",
+        "Valor": 220.199996948242,
+        "Estado": "Definitivo",
+        "Notas": null
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Trimestre 2",
+        "Parametro": "Segunda etapa de educación secundaria con orientación profesional",
+        "Valor": 2459.60009765625,
+        "Estado": "Definitivo",
+        "Notas": null
+    },
+    {
+        "Agno": 2022,
+        "Periodo": "Trimestre 2",
+        "Parametro": "Segunda etapa de educación secundaria, con orientación general",
+        "Valor": 3247.39990234375,
+        "Estado": "Definitivo",
+        "Notas": null
+    }
+]
